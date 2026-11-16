@@ -1,6 +1,6 @@
 # AI Blood Smear Cell Counter
 
-**Live app:** [AI Blood Smear Cell Counter](https://blood-smear-cell-counter.streamlit.app/) (private; sign in to Streamlit to access.)
+**Live app:** [AI Blood Smear Cell Counter](https://blood-smear-cell-counter.streamlit.app/)
 
 A Python web app for blood-smear image analysis. It includes a YOLO object-detection training pipeline for multiple annotated images, model inference with class-wise totals, an annotated preview, and CSV export. Before a checkpoint is trained, the app shows its original OpenCV heuristic detections.
 
