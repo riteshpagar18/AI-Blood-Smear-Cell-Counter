@@ -1,0 +1,12 @@
+.git
+.venv
+__pycache__
+*.py[cod]
+dataset
+runs
+personal_data
+yolo26n.pt
+train_model.py
+prelabel_images.py
+*.md
+*.xlsx

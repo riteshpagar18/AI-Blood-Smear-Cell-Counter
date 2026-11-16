@@ -1,0 +1,8 @@
+path: /Users/riteshpagar/PycharmProjects/PythonProject9/dataset
+train: images/train
+val: images/val
+names:
+  0: red_blood_cell
+  1: white_blood_cell
+  2: platelet
+test: images/test
